@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /sitemap.xml
+Allow: /urllist.txt
+
+Sitemap: https://traiphong.github.io/sitemap.xml

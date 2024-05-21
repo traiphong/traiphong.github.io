@@ -1,0 +1,3 @@
+
+ErrorDocument 404 https://traiphong.github.io/
+ErrorDocument 500 https://traiphong.github.io/
