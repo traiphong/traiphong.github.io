@@ -1,5 +1,4 @@
-User-agent: *
-Allow: /sitemap.xml
-Allow: /urllist.txt
+User-Agent: *
+Disallow: 
 
 Sitemap: https://traiphong.github.io/sitemap.xml
